@@ -9,5 +9,17 @@
     "amm": {
       "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
     }
+  },
+
+  "5": {
+    "dapp": {
+      "address": "0xD553899c35b76be7c146abc5CA804b89C01b3123"
+    },
+    "usd": {
+    "address": "0x6FC5bdC5F5DA44Ce0Af9abC4F7ed236aBA9709B0"
+    },
+    "amm": {
+      "address": "0x8E2E4004ed2345A50b810b854FD0b4A5ed14BE66"
+    }
   }
 }
